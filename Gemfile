@@ -52,4 +52,8 @@ end
 
 # Windows does not include zoneinfo files, so bundle the tzinfo-data gem
 gem 'tzinfo-data', platforms: [:mingw, :mswin, :x64_mingw, :jruby]
+<<<<<<< HEAD
 gem 'pry-rails'
+=======
+gem 'devise'
+>>>>>>> 6a4ce56eacbb874107e002db8ef3cbd068899548
